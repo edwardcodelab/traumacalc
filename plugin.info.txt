@@ -1,7 +1,7 @@
 base   traumacalc
 author dodotori@dokuwikiforum
 email  dodotori@dokuwikiforum
-date   2025-2-25
+date   2025-2-26
 name   dokuflashcard plugin
 desc   to calculate Trauma score: RTS, ISS, TRISS
 url    https://www.dokuwiki.org/plugin:traumaclac
